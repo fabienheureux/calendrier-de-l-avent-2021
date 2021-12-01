@@ -1,5 +1,5 @@
 # Advent of code 2021
   
-https://advntofcode.com/
+https://adventofcode.com/
 
-![papa noel]("https://github.com/fabienheureux/calendrier-de-l-avent-2021/blob/main/.github/giphy.gif?raw=true")
+![papa noel]("https://raw.githubusercontent.com/fabienheureux/calendrier-de-l-avent-2021/main/.github/giphy.gif")
