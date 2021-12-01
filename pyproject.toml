@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "adventofcode"
+version = "0.1.0"
+description = ""
+authors = ["Fabien Le Frapper <contact@fabienlefrapper.me>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.26.0"
+black = "^21.11b1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
