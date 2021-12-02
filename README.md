@@ -12,12 +12,12 @@ cd day_X
   
 Then
   
-```python
+```bash
 python main.py
 ```
 
 ## Install dependencies  
-No dependencies should be required, they only live here in order to format my code. However, you can install them using [Poetry](https://python-poetry.org/docs/)
+No external dependencies are required to run this code, they only live here in order to format my code. However, you can install them using [Poetry](https://python-poetry.org/docs/)
   
 ```bash
 poetry install
