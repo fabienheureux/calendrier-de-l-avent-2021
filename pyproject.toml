@@ -6,7 +6,6 @@ authors = ["Fabien Le Frapper <contact@fabienlefrapper.me>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-requests = "^2.26.0"
 black = "^21.11b1"
 
 [tool.poetry.dev-dependencies]
